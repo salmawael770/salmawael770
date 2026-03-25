@@ -8,7 +8,9 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/salmawaelmahmoud0/><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+ <a href="https://www.linkedin.com/in/salmawaelmahmoud0/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
   
   <a href="mailto:salmawaelmahmoud0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
@@ -48,9 +50,12 @@ When I'm not working with data, I enjoy reading books and coloring. I love the "
 </p>
 
 #### Business Intelligence & Analytics
+#### Business Intelligence & Analytics
+
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediate-FF6B6B?style=flat" alt="Data Analysis Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Expert-45B7D1?style=flat" alt="Data Visualization Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-96CEB4?style=flat" alt="KPI Development Skill Badge">
+<img src="https://img.shields.io/badge/Data%20Analysis-Intermediate-blue?style=flat" />
+<img src="https://img.shields.io/badge/Data%20Visualization-Advanced-brightgreen?style=flat" />
+<img src="https://img.shields.io/badge/KPI%20Development-Intermediate-yellow?style=flat" />
+<img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-orange?style=flat" />
+<img src="https://img.shields.io/badge/Dashboarding-Advanced-blueviolet?style=flat" />
 </p>
